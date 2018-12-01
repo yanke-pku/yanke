@@ -61,11 +61,11 @@ Characteristics of micro-blog inter-city social interactions in China.
 
 ## Selected Awards & Honors
 
-* 2017     Distinguished Talent Scholarship  
-* 2016     Lee Wai Wing Scholarship of Peking University 
-* 2015     Master's Special Scholarship of Peking University
-* 2014     Excellent Undergraduate of Wuhan University 
-* 2013     National Scholarship (top 2% ) 
-* 2013     Pacemaker to Merit Student (only 1 student in a major)    
-* 2012     Third Prize in National Software Innovation Contest            
-* 2011, 2012, 2014, 2016       Merit Student (top 5%)            
+* Distinguished Talent Scholarship  2017
+* Lee Wai Wing Scholarship of Peking University 2016
+* Master's Special Scholarship of Peking University 2015
+* Excellent Undergraduate of Wuhan University 2014
+* National Scholarship (top 2% ) 2013
+* Pacemaker to Merit Student (only 1 student in a major)  2013  
+* Third Prize in National Software Innovation Contest  2012
+* Merit Student (top 5%) 2011, 2012, 2014, 2016            

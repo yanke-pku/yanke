@@ -9,7 +9,7 @@ Email: yanke at ntu.edu.sg
 Ke Yan is currently a Research Associate in the ROSE Lab, Nanyang Technological University, Singapore. He received his M.Sc. in computer science in 2017 from Peking University, Beijing, China and his B.Eng. degree in software engineering in 2014 from Wuhan University, Wuhan, China. His research interests include computer vision, image recognition/search and person/vehicle re-identification.
 
 ## Selected Publications  
-My Full Publication List including H-index and citations can also be found in [[Google Scholar]](https://scholar.google.com.sg/citations?user=vWstgn0AAAAJ&hl=en)  
+My Full Publication List can also be found in [Google Scholar](https://scholar.google.com.sg/citations?user=vWstgn0AAAAJ&hl=en)  
 * **Ke Yan**, Fan Yang, Shijian Lu, Huizhu Jia, Xiaodong Xie, Wen Gao.  
 Attention Driven Person Re-identification.  
 Pattern Recognition (PR), 2018.
@@ -29,11 +29,11 @@ ACM on Multimedia (ACM MM), 2016. PDF
 
 ## Selected Awards & Honors
 
-* Distinguished Talent Scholarship  2017
-* Lee Wai Wing Scholarship of Peking University 2016
-* Master's Special Scholarship of Peking University 2015
-* Excellent Undergraduate of Wuhan University 2014
-* National Scholarship (top 2% ) 2013
-* Pacemaker to Merit Student (only 1 student in a major)  2013  
-* Third Prize in National Software Innovation Contest  2012
-* Merit Student (top 5%) 2011, 2012, 2014, 2016            
+* **Distinguished Talent Scholarship**  2017
+* **Lee Wai Wing Scholarship** of Peking University 2016
+* **Master's Special Scholarship** of Peking University 2015
+* **Excellent Undergraduate** of Wuhan University 2014
+* **National Scholarship** (top 2% ) 2013
+* **Pacemaker to Merit Student** (only 1 student in a major)  2013  
+* **Third Prize in National Software Innovation Contest**  2012
+* **Merit Student** (top 5%) 2011, 2012, 2014, 2016            

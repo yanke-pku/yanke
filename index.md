@@ -4,11 +4,11 @@ Address: Nanyang Technological University, Singapore
 Email: yanke at ntu.edu.sg   
 [[Google Scholar]](https://scholar.google.com.sg/citations?user=vWstgn0AAAAJ&hl=en)  [[Linkedln]](https://www.linkedin.com/in/hbyanke/)
 
-### Biography
+## Biography
 
 Ke Yan is currently a Research Associate in the ROSE Lab, Nanyang Technological University, Singapore. He received his M.Sc. in computer science in 2017 from Peking University, Beijing, China and his B.Eng. degree in software engineering in 2014 from Wuhan University, Wuhan, China. His research interests include computer vision, image recognition/search and person/vehicle re-identification.
 
-### Publications
+## Publications
 
 * **Ke Yan**, Fan Yang, Shijian Lu, Huizhu Jia, Xiaodong Xie, Wen Gao.
 Attention Driven Person Re-identification.
@@ -54,12 +54,12 @@ IEEE Transactions on Intelligent Transportation Systems, 2014. PDF
 Characteristics of micro-blog inter-city social interactions in China.
  Journal of Shenzhen University (Science & Engineering), 2013. PDF
 
-### Professional Services
+## Professional Services
 
 * Reviewer: IEEE Transactions on Multimedia (TMM)
 * Reviewer: International Journal of Multimedia Data Engineering and Management (IJMDEM)
 
-### Selected Awards & Honors
+## Selected Awards & Honors
 
 * 2017     Distinguished Talent Scholarship  
 * 2016     Lee Wai Wing Scholarship of Peking University 
@@ -69,5 +69,3 @@ Characteristics of micro-blog inter-city social interactions in China.
 * 2013     Pacemaker to Merit Student (only 1 student in a major)    
 * 2012     Third Prize in National Software Innovation Contest            
 * 2011, 2012, 2014, 2016       Merit Student (top 5%)            
-
-

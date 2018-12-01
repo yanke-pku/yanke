@@ -24,9 +24,9 @@ CNN vs. SIFT for image retrieval: alternative or complementary?
 *ACM on Multimedia (ACM MM)*, 2016. [[paper]](https://github.com/yanke-pku/yanke/blob/master/documents/MM_2016.pdf)
 
 ## Patent
-* An approach and device for image representation based on multi-level feature fusion. CN Patent.
-* An approach and device for cross-camera object tracking based on dynamic path trees. CN Patent.
-* An approach and device for cross-camera object tracking. CN Patent.
+* An approach and device for image representation based on multi-level feature fusion.
+* An approach and device for cross-camera object tracking based on dynamic path trees.
+* An approach and device for cross-camera object tracking.
 
 ## Professional Services
 

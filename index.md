@@ -21,7 +21,7 @@ Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-Simi
 *IEEE Conference on Computer Vision* (ICCV), 2017.[[paper]](https://github.com/yanke-pku/yanke/blob/master/documents/ICCV_2017.pdf)
 * **Ke Yan**, Yaowei Wang, Dawei Liang, Tiejun Huang, Yonghong Tian.  
 CNN vs. SIFT for image retrieval: alternative or complementary?   
-*ACM on Multimedia (ACM MM)*, 2016. [[paper]](https://github.com/yanke-pku/yanke/blob/master/documents/MM_2016.pdf)
+*ACM on Multimedia* (ACM MM), 2016. [[paper]](https://github.com/yanke-pku/yanke/blob/master/documents/MM_2016.pdf)
 
 ## Patent
 * An approach and device for image representation based on multi-level feature fusion.

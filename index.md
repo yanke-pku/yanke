@@ -7,7 +7,7 @@ Email: yanke at ntu.edu.sg
 ## Research Interest
 Computer Vision, Image Recognition/Search and Person/Vechicle Re-ID.
 
-## Educations
+## Education
 M.Sc., Computer Science, Peking University, 2014-2017  
 B.Eng, Computer Software Engineering, Wuhan University, 2010-2014
 
@@ -22,6 +22,11 @@ IEEE Conference on Computer Vision (ICCV), 2017.[[paper]](https://github.com/yan
 * **Ke Yan**, Yaowei Wang, Dawei Liang, Tiejun Huang, Yonghong Tian.  
 CNN vs. SIFT for image retrieval: alternative or complementary?   
 ACM on Multimedia (ACM MM), 2016. [[paper]](https://github.com/yanke-pku/yanke/blob/master/documents/MM_2016.pdf)
+
+## Patent
+* An approach and device for image representation based on multi-level feature fusion. CN Patent.
+* An approach and device for cross-camera object tracking based on dynamic path trees. CN Patent.
+* An approach and device for cross-camera object tracking. CN Patent.
 
 ## Professional Services
 

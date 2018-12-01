@@ -8,7 +8,7 @@ Email: yanke at ntu.edu.sg
 Computer Vision, Image Recognition/Search and Person/Vechicle Re-ID.
 
 ## Educations
-M.Sc., Computer Science, Peking University, 2014-2017  
+M.Sc., Computer Science, Peking University, 2014-2017
 B.Eng, Computer Software Engineering, Wuhan University, 2010-2014
 
 ## Selected Publications  

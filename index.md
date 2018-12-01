@@ -8,11 +8,11 @@ Email: yanke at ntu.edu.sg
 Computer Vision, Image Recognition/Search and Person/Vechicle Re-ID.
 
 ## Educations
-M.Sc., Computer Science, Peking University, 2014-2017
+M.Sc., Computer Science, Peking University, 2014-2017  
 B.Eng, Computer Software Engineering, Wuhan University, 2010-2014
 
 ## Selected Publications  
-My Full Publication List can also be found in [Google Scholar](https://scholar.google.com.sg/citations?user=vWstgn0AAAAJ&hl=en).
+My Full Publication List can also be found in [Google Scholar](https://scholar.google.com.sg/citations?user=vWstgn0AAAAJ&hl=en)
 * **Ke Yan**, Fan Yang, Shijian Lu, Huizhu Jia, Xiaodong Xie, Wen Gao.  
 Attention Driven Person Re-identification.  
 Pattern Recognition (PR), 2018. [[paper]](https://github.com/yanke-pku/yanke/blob/master/documents/PR_2018.pdf)

@@ -1,7 +1,7 @@
 ## Welcome to Ke Yan's Home Page
 Research Associate in the ROSE Lab, Nanyang Technological University, Singapore.  
 Address: Nanyang Technological University, Singapore  
-Email: yanke at ntu.edu.sg   
+Email: hbyanke@gmail.com   
 [[Google Scholar]](https://scholar.google.com.sg/citations?user=vWstgn0AAAAJ&hl=en)  [[Linkedln]](https://www.linkedin.com/in/hbyanke/)
 
 ## Research Interest
